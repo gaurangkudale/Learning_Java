@@ -1,4 +1,4 @@
-package org.autoevaluate;
+package org.autoevaluate.keywords_and_packages;
 
 import java.sql.SQLOutput;
 

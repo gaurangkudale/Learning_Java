@@ -1,4 +1,4 @@
-package org.autoevaluate;
+package org.autoevaluate.keywords_and_packages;
 
 public class challenge {
     public static void main(String [] args) {
