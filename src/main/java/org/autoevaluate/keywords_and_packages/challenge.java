@@ -15,5 +15,9 @@ public class challenge {
         if (!var1){
             System.out.println("Got some reminder :" + reminder);
         }
+
+        double num = 3.1256;
+        String formattedNum = String.format("%.3f", num);
+        System.out.println(formattedNum);
     }
 }
